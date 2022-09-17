@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blueskayua
-- 👀 I’m interested in frontend development and ui/ux design
+- 👀 I’m frontend web dev and interested in ui/ux design
 - 🌱 I’m currently learning css, javascript
 - 💞️ I’m creating websites etc.
 
